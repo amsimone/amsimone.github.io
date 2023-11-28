@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Simone Amoroso"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Researcher at DESY in the  CMS experiment at CERN"
+  location         : "Hamburg, Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
